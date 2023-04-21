@@ -33,9 +33,12 @@ main {
     background: url(../img/estrutura.png) no-repeat;
     background-position: center center;
     margin: 0;
+    margin-left: 0px;
     flex-basis: 40%;
     position: relative;
 }
+
+
 
 .robo {
     height: 110%;
@@ -43,6 +46,7 @@ main {
     position: absolute;
     left: -20%;
     top: -5%;
+    margin-left: 200px;
 }
 
 .titulo {
